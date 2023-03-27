@@ -55,9 +55,9 @@ function FanBlads() {
                   levels are as low as possible,it is of the most importants
                   that the right fan is chosen Axial fiow fans are delta’s
                   business. With an extensive product range and with a high
-                  level of technical support Mahakal cooling tower’are
+                  level of technical support 'Mahakal cooling tower’are
                   specifically designed for cooling towers and other efficiency
-                  critical applications.Mahakal cooling tower’energy
+                  critical applications. 'Mahakal cooling tower’energy
                   efficient fan saves upto 30% power as compared to conventional
                   aluminium fans.
                 </p>

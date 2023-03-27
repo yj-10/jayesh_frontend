@@ -88,7 +88,7 @@ const Layout = () => {
                   </Link>
                   <ul className="ul">
                     <li>
-                      <Link to={"/FanBlads"}>Fan Blades</Link>
+                      <Link to={"/FanBlads"}>FRP Fan Blades</Link>
                     </li>
 
                     <li>
